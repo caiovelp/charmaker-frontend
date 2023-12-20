@@ -1,0 +1,31 @@
+.racaListGroup {
+    margin-top: 10px;
+    padding-bottom: 15px;
+}
+
+.hoverEffect:hover {
+    color: darkred;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.imageClass {
+    width: 20%;
+    height: 20%;
+}
+
+.cardPersonagem {
+    width: 15rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+.cardPersonagem-image {
+    transform: scale(0.8);
+}
+
+.cardPersonagem:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.form-box {
+    background-color: indianred;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.submit-button:hover {
+    background-color: yellowgreen;
+    border-color: yellowgreen;
+}

@@ -1,0 +1,23 @@
+.search-fields-title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.bag-icon-dash:hover {
+    cursor: pointer;
+    color: darkred;
+}
+
+.bag-icon-plus:hover {
+    cursor: pointer;
+    color: forestgreen;
+}
+
+.bag-icon-check:hover {
+    cursor: pointer;
+}
+
+.div-scroll {
+    overflow-y: scroll;
+    height: 576px;
+}
